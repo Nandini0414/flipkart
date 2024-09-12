@@ -1,0 +1,24 @@
+.main{
+    display: flex;
+    padding: 10px;
+    border-bottom: 2px solid black;
+}
+.submain{
+    width: 30%;
+    height: 40%;
+    margin-left: 10px;
+    
+}
+.heading{
+    width: 30%;
+    height: 40%;
+}
+.price{
+    width: 30%;
+    height: 40%;
+    margin-left: 40px;
+    padding: 40px;
+}
+.int{
+    font-weight: bold;
+}
